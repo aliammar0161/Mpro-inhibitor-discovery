@@ -1,0 +1,12 @@
+pandas
+numpy
+tqdm
+deepchem
+mols2grid
+pubchempy
+rdkit
+shap
+seaborn
+matplotlib
+xgboost
+umap-learn
